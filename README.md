@@ -3,9 +3,9 @@ Fes-Tec - Website
 Professionelle Webpräsenz für Fes-Tec in Duerrmenz
 
 Leistungen
+- Heizungs-/Klimatechnik
+- Smart-Home
 - Sanierungen
-- Beratungen
-- Weisse Ware
 - Elektroinstallationen
 
 Kontakt
